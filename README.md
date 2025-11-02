@@ -10,4 +10,5 @@ P.S. Points for attention:<br>
 &emsp;&emsp;3.Please use the IOU.py file to evaluate the model segmentation results. An IOU value exceeding 0.8 indicates &emsp;&emsp;satisfactory performance.<br>
 <br>
 The dataset has been uploaded to the following URL: https://pan.baidu.com/s/1D5RWAcduCyBrfdmUaRT3BA?pwd=0796.<br>
+<br>
 For detailed usage instructions, please refer to the paper:Automated defect detection using spatial and temporal deep learning in thermographic nondestructive evaluation.
